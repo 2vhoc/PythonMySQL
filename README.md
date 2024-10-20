@@ -1,7 +1,9 @@
 # PythonMySQL
 Note: You can use uppercase or lowercase letters
 
+<pre><code class="language-javascript">
 pip install mysql-connector-python 
+</code></pre>
 
 Part1 Creation:
 
